@@ -1,0 +1,29 @@
+body{
+background-color: black;
+}
+
+#openStore{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    color: rgb(0, 0, 0);
+text-align: center;
+align-items: center;
+margin-right: auto;margin-left: auto;
+font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+
+#two{
+color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+}
+
+
+#three{
+color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+}
+
