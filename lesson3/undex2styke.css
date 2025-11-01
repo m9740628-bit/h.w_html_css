@@ -1,9 +1,10 @@
 body{
 
     background-color: black;
-    color: beige;
+    color: wheat;
     text-align: center;
     align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #order{
