@@ -1,0 +1,51 @@
+body{
+background-color: black;
+}
+
+#open{
+color: white;
+    text-align: center;
+    background-color: black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#openStore{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    color: rgb(0, 0, 0);
+text-align: center;
+align-items: center;
+margin-right: auto;margin-left: auto;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+#two{
+color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+}
+
+
+#three{
+color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+}
+
+#hreכ{
+    text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer{
+    background-color: rgb(28, 28, 28);
+    align-items: center;
+    text-align: center;
+    color: wheat;
+    h2{
+        color: white;
+    }
+}
+

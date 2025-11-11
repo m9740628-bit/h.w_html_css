@@ -1,0 +1,12 @@
+body{
+
+    background-color: black;
+    color: wheat;
+    text-align: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#order{
+        border-color: rgb(255, 255, 0);
+}
